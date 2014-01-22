@@ -1,1 +1,12 @@
 Uploaded for demonstration of programming techniques.
+
+--Game Instructions--
+1. Enter any cardinal direction to move your character.
+   e.g. 'no', 'so', 'ea', we' for North, South, East, and West, respectively
+        'ne', 'nw' for North-East, Southwest, and so on
+2. Attack enemies by entering 'a [direction]'. Watch your HP!
+3. Grab potions by entering 'p [direction]'.
+4. Advance to lower floors by simply walking on the stairs ('\') tile
+5. Your main character is labelled as '@'. Gold is labelled as 'G'. Potions are labelled as 'P'.
+   Walls are labelled as '|' or '-'. Passageways (walkable) are labelled as '#'.
+   Anything else is an enemy.
